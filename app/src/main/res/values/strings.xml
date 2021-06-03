@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HHWeather</string>
+    <string name="title_activity_cityitem_detail_host">cityitem Detail Host Activity</string>
+    <string name="title_cityitem_list">city_items</string>
+    <string name="title_cityitem_detail">city_item Detail</string>
+</resources>

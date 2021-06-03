@@ -1,0 +1,3 @@
+rootProject.name = "WeatherReport"
+include ':app'
+include ':vpindicator'
